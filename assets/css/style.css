@@ -1,0 +1,66 @@
+body {
+  background-color: black;
+}
+
+header{
+  background-image: url(../img/shadow1.svg);
+  position: absolute;
+  width: 895.02px;
+  height: 798.16px;
+  left: -230px;
+  top: -279px;
+  background-size: cover;
+}
+
+.nome {
+  position: absolute;
+  width: auto;
+  height: 35px;
+  left: 38%;
+  top: 10px;
+
+  font-family: 'Glory';
+  font-size: large;
+
+  display: flex;
+  align-items: center;
+
+  color: #FFFFFF;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ftotelaprin{
+  position: absolute;
+  left: 40%;
+  top: 95px;
+  height: 200px;
+  width: auto;
+}
+
+.minhalogo {
+  position: absolute;
+  width: 174px;
+  height: 163px;
+  left: 44%;
+  top: 398px;
+
+background: url(P-removebg-preview.png);
+backdrop-filter: blur(2px);
+}
+
+.botaomeconheca{
+  position: absolute;
+  left: 29%;
+  top: 565px;
+}
+
+.botaovoltarmain{
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 1650px;
+  top: 900px;
+
+}
